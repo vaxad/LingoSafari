@@ -1,3 +1,6 @@
+8
+![image](https://github.com/vaxad/LingoSafari/assets/126230095/0fce0b09-6e46-431e-ac83-e32073881ce8)
+
 # LingoSafari 🌐🗣️
 
 LingoSafari is an innovative language learning platform developed by Team LingoSafari, comprising Varad, Dhrish, and Rishabh, during a 30-hour hackathon. Built entirely in Next.js, our platform leverages AI, interactive modules, and gamification to facilitate an engaging language learning experience.
