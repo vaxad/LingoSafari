@@ -1,4 +1,4 @@
-9
+10
 ![image](https://github.com/vaxad/LingoSafari/assets/126230095/0fce0b09-6e46-431e-ac83-e32073881ce8)
 
 # LingoSafari 🌐🗣️
