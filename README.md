@@ -1,5 +1,5 @@
 10
-![image](https://github.com/vaxad/LingoSafari/assets/126230095/0fce0b09-6e46-431e-ac83-e32073881ce8)
+![image](https://res.cloudinary.com/db670bhmc/image/upload/v1701884428/273680147-0fce0b09-6e46-431e-ac83-e32073881ce8_uwc9d9.png)
 
 # LingoSafari 🌐🗣️
 
